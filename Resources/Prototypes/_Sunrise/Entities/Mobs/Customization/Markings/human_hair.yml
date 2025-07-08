@@ -729,3 +729,11 @@
   sprites:
   - sprite: _Sunrise/Mobs/Customization/sunrise_human_hair.rsi
     state: moon
+
+- type: marking
+  id: HairMalet
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+  - sprite: _Sunrise/Mobs/Customization/sunrise_human_hair.rsi
+    state: malet

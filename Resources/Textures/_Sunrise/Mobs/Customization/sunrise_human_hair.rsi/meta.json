@@ -86,6 +86,10 @@
         {
             "name": "shaved_unisex",
             "directions": 4
+        },
+        {
+            "name": "malet",
+            "directions": 4
         }
   ]
 }
