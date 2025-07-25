@@ -27,7 +27,7 @@ public sealed class FrenchAccentSystem : EntitySystem
 
         msg = _replacement.ApplyReplacements(msg, "french");
 
-        // replaces к with кх' at the start of words.
+        // replaces к with кх at the start of words.
         msg = RegexK.Replace(msg, "кх"); // Sunrise-Edit
 
         // replaces р with х at the start of words.

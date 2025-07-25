@@ -16,9 +16,7 @@ public sealed class ItalianAccentSystem : EntitySystem
 
     public string Accentuate(string message)
     {
-        var accentedMessage = new StringBuilder(_replacement.ApplyReplacements(message, "italian"));
-
-        return accentedMessage.ToString();
+        return _replacement.ApplyReplacements(message, "italian");
     }
 
     private void OnAccent(EntityUid uid, ItalianAccentComponent component, AccentGetEvent args)
