@@ -71,5 +71,5 @@ accent-moldovan-words-31 = хлеб
 accent-moldovan-words-replace-31 = пыйне
 accent-moldovan-words-32 = кровь
 accent-moldovan-words-replace-33 = сынже
-accent-moldovan-words-33 = хочешь
-accent-moldovan-words-replace-33 = врей
+accent-moldovan-words-34 = хочешь
+accent-moldovan-words-replace-34 = врей

@@ -25,6 +25,7 @@
 
 - type: accent
   id: italian
+  replacementChance: 0.7 # Sunrise-edit
   wordReplacements:
     accent-italian-words-1: accent-italian-words-replace-1
     accent-italian-words-2: accent-italian-words-replace-2
@@ -853,3 +854,4 @@
     accent-moldovan-words-31: accent-moldovan-words-replace-31
     accent-moldovan-words-32: accent-moldovan-words-replace-32
     accent-moldovan-words-33: accent-moldovan-words-replace-33
+    accent-moldovan-words-34: accent-moldovan-words-replace-34
