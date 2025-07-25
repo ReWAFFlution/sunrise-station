@@ -1,3 +1,5 @@
+# Sunrise-edit
+
 accent-german-words-1 = да
 accent-german-words-1-2 = ага
 accent-german-words-replace-1 = да
